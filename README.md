@@ -4,7 +4,7 @@
 #### golang知识
 - [go接口](golang/golang接口.md)
 - [go开发web服务的优势](golang/go开发web服务的优势.md)
-- [go开发一个简单的web服务器]
+- [go开发一个简单的web服务器](golang/simpleWebApp.md)
 
 #### 数据结构与算法
 - [八大排序算法](algorithm/八大排序算法.md)
