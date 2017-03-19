@@ -2,7 +2,7 @@
 
 ## 目录
 #### golang知识
-- [go接口](golang/golang接口.md)
+- [go接口深入理解](golang/golang接口.md)
 - [go开发web服务的优势](golang/go开发web服务的优势.md)
 - [go开发一个简单的web服务器](golang/simpleWebApp.md)
 
