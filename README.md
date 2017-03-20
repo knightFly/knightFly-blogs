@@ -1,5 +1,3 @@
-# knightFly 博客，技术共享。
-
 ## 目录
 ### golang知识
 - [go接口深入理解](golang/golang接口.md)
