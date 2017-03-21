@@ -13,6 +13,7 @@
 
 ### kubernetes文章分享
 - [什么是kubernetes](http://doc.kubernetes.cn/docs/whatisk8s/)
+- [高可用k8s集群搭建](https://github.com/knightFly/knightFly-blogs/issues/1)
 
 ### docker文章分享
 - [什么是docker](https://docs.docker.com/engine/understanding-docker/)
