@@ -14,7 +14,7 @@
 ### kubernetes文章分享
 - [什么是kubernetes](http://doc.kubernetes.cn/docs/whatisk8s/)
 - [高可用k8s集群搭建](https://github.com/knightFly/knightFly-blogs/issues/1)
-- [基于k8s的内存型mongo复制集搭建](#2)
+- [基于k8s的内存型mongo复制集搭建](https://github.com/knightFly/knightFly-blogs/issues/2)
 
 ### docker文章分享
 - [什么是docker](https://docs.docker.com/engine/understanding-docker/)
