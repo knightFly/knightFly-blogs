@@ -10,6 +10,7 @@
 ### 数据结构与算法
 - [八大排序算法](algorithm/八大排序算法.md)
 - [二叉树遍历的递归实现和非递归实现](algorithm/二叉树的递归与非递归实现.md)
+- [从给定正整数序列中找到1--1000000范围内所有数](https://github.com/knightFly/knightFly-blogs/issues/4)
 
 ### kubernetes文章分享
 - [什么是kubernetes](http://doc.kubernetes.cn/docs/whatisk8s/)
